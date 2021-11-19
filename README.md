@@ -1,1 +1,1 @@
-# quantum_rna_folding
+# rna_folding
